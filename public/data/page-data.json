@@ -1,0 +1,105 @@
+
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "warhamnakhan30@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:warhamnakhan30@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 8750257108",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+918750257108"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/warhamna-khan-1a526126b"
+      }
+    ]
+  },
+
+  "educationData": {
+   "education": [
+  {
+    "title": "Master of Arts (M.A.)",
+    "institution": "Dr. Bhimrao Ambedkar University, Agra",
+    "year": "2021",
+    "description": "Completed a Master's degree with a strong foundation in communication, critical thinking, research, and analytical skills."
+  },
+  {
+    "title": "Bachelor of Arts (B.A.)",
+    "institution": "Dr. Bhimrao Ambedkar University, Agra",
+    "year": "2019",
+    "description": "Built a strong academic foundation in humanities, communication, and creative problem-solving."
+  },
+  {
+    "title": "Intermediate (Class XII)",
+    "institution": "M.G. Girls Inter College, Firozabad",
+    "year": "2016",
+    "description": "Completed higher secondary education with a focus on academic excellence and personal development."
+  },
+  {
+    "title": "High School (Class X)",
+    "institution": "M.G. Girls Inter College, Firozabad",
+    "year": "2014",
+    "description": "Completed secondary education, developing a strong academic foundation and essential learning skills."
+  }],
+
+    "skills": [
+      {
+        "name": "Microsoft PowerPoint",
+        "icon": "/images/home/education-skill/powerpoint-1.svg",
+        "rating": 5
+      },
+      {
+        "name": "Google Slides",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Adobe Illustrator",
+        "icon": "/images/home/education-skill/Adobe_Illustrator_CC_icon.svg.webp",
+        "rating": 4
+      }
+    ]
+  },
+
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/warhamna-khan-1a526126b"
+      }
+    ],
+
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "warhamnakhan30@gmail.com",
+        "link": "mailto:warhamnakhan30@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 8750257108",
+        "link": "tel:+918750257108"
+      }
+    ]
+  }
+}
+
